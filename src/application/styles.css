@@ -1,0 +1,27 @@
+.button-driver {
+    -fx-background-color: #4CAF50; /* Color de fondo verde para el botón de conductores */
+    -fx-text-fill: white; /* Color del texto blanco */
+    -fx-font-size: 14px; /* Tamaño de fuente */
+    -fx-padding: 10px 20px; /* Espaciado interno */
+    -fx-border-radius: 5px; /* Bordes redondeados */
+}
+
+.button-driver:hover {
+    -fx-background-color: #45a049; /* Cambio de color al pasar el ratón */
+}
+
+.button-constructor {
+    -fx-background-color: #2196F3; /* Color de fondo azul para el botón de constructores */
+    -fx-text-fill: white; /* Color del texto blanco */
+    -fx-font-size: 14px; /* Tamaño de fuente */
+    -fx-padding: 10px 20px; /* Espaciado interno */
+    -fx-border-radius: 5px; /* Bordes redondeados */
+}
+
+.button-constructor:hover {
+    -fx-background-color: #1976D2; /* Cambio de color al pasar el ratón */
+}
+
+.root {
+    -fx-background-color: orange; /* Color de fondo naranja para la ventana */
+}

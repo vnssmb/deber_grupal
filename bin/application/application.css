@@ -1,0 +1,11 @@
+.button {
+    -fx-background-color: #4CAF50; /* Color de fondo verde */
+    -fx-text-fill: white; /* Color del texto blanco */
+    -fx-font-size: 14px; /* Tamaño de fuente */
+    -fx-padding: 10px 20px; /* Espaciado interno */
+    -fx-border-radius: 5px; /* Bordes redondeados */
+}
+
+.button:hover {
+    -fx-background-color: #45a049; /* Cambio de color al pasar el ratón */
+}
